@@ -27,3 +27,7 @@
 | 430 | Flatten a Multilevel Doubly Linked List | Medium | [C++](./linkedlist/leetcode_prob_430.cpp) |
 | 445 | Add Two Numbers II | Medium | [C++](./linkedlist/leetcode_prob_445.cpp) |
 | 876 | Middle of the Linked List | Easy | [C++](./linkedlist/leetcode_prob_876.cpp) |
+| 1019 | Next Greater Node In Linked List | Medium | [C++](./linkedlist/leetcode_prob_1019.cpp) |
+| 1290 | Convert Binary Number in a Linked List to Integer | Easy | [C++](./linkedlist/leetcode_prob_1290.cpp) |
+| 1367 | Linked List in Binary Tree | Medium | [C++](./linkedlist/leetcode_prob_1367.cpp) |
+| 1669 | Merge In Between Linked Lists | Medium | [C++](./linkedlist/leetcode_prob_1669.cpp) |
