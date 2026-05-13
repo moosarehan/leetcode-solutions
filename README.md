@@ -31,3 +31,6 @@
 | 1290 | Convert Binary Number in a Linked List to Integer | Easy | [C++](./linkedlist/leetcode_prob_1290.cpp) |
 | 1367 | Linked List in Binary Tree | Medium | [C++](./linkedlist/leetcode_prob_1367.cpp) |
 | 1669 | Merge In Between Linked Lists | Medium | [C++](./linkedlist/leetcode_prob_1669.cpp) |
+| 1721 | Swapping Nodes in a Linked List | Medium | [C++](./linkedlist/leetcode_prob_1721.cpp) |
+| 2095 | Delete the Middle Node of a Linked List | Medium | [C++](./linkedlist/leetcode_prob_2095.cpp) |
+| 3217 | Delete Nodes From Linked List Present in Array | Medium | [C++](./linkedlist/leetcode_prob_3217.cpp) |
