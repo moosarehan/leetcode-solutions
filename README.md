@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+### Linked List
 | Problem # | Title | Difficulty | Solution |
 | :--- | :--- | :--- | :--- |
 | 19 | Remove Nth Node From End of List | Medium | [C++](./linkedlist/removeNthNode.cpp) |
@@ -34,6 +35,10 @@
 | 1721 | Swapping Nodes in a Linked List | Medium | [C++](./linkedlist/leetcode_prob_1721.cpp) |
 | 2095 | Delete the Middle Node of a Linked List | Medium | [C++](./linkedlist/leetcode_prob_2095.cpp) |
 | 3217 | Delete Nodes From Linked List Present in Array | Medium | [C++](./linkedlist/leetcode_prob_3217.cpp) |
+
+### Queue
+| Problem # | Title | Difficulty | Solution |
+| :--- | :--- | :--- | :--- |
 | 225 | Implement Stack using Queues | Easy | [C++](./queue/leetcode_prob_225.cpp) |
 | 232 | Implement Queue using Stacks | Easy | [C++](./queue/leetcode_prob_232.cpp) |
 | 239 | Sliding Window Maximum | Hard | [C++](./queue/leetcode_prob_239.cpp) |
