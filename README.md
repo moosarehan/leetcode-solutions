@@ -42,3 +42,7 @@
 | 225 | Implement Stack using Queues | Easy | [C++](./queue/leetcode_prob_225.cpp) |
 | 232 | Implement Queue using Stacks | Easy | [C++](./queue/leetcode_prob_232.cpp) |
 | 239 | Sliding Window Maximum | Hard | [C++](./queue/leetcode_prob_239.cpp) |
+| 387 | First Unique Character in a String | Easy | [C++](./queue/leetcode_prob_387.cpp) |
+| 622 | Design Circular Queue | Medium | [C++](./queue/leetcode_prob_622.cpp) |
+| 641 | Design Circular Deque | Medium | [C++](./queue/leetcode_prob_641.cpp) |
+| 2073 | Time Needed to Buy Tickets | Easy | [C++](./queue/leetcode_prob_2073.cpp) |
