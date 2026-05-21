@@ -4,6 +4,14 @@
 
 ## Table of Contents
 
+### Binary Tree
+| Problem # | Title | Difficulty | Solution |
+| :--- | :--- | :--- | :--- |
+| 94 | Binary Tree Inorder Traversal | Easy | [C++](./BinaryTree/leetcode_prob_94.cpp) |
+| 98 | Validate Binary Search Tree | Medium | [C++](./BinaryTree/leetcode_prob_98.cpp) |
+| 100 | Same Tree | Easy | [C++](./BinaryTree/leetcode_prob_100.cpp) |
+| 101 | Symmetric Tree | Easy | [C++](./BinaryTree/leetcode_prob_101.cpp) |
+
 ### Linked List
 | Problem # | Title | Difficulty | Solution |
 | :--- | :--- | :--- | :--- |
