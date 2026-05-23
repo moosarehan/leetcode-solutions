@@ -15,6 +15,10 @@
 | 104 | Maximum Depth of Binary Tree | Easy | [C++](./BinaryTree/leetcode_prob_104.cpp) |
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | [C++](./BinaryTree/leetcode_prob_105.cpp) |
 | 107 | Binary Tree Level Order Traversal II | Medium | [C++](./BinaryTree/leetcode_prob_107.cpp) |
+| 110 | Balanced Binary Tree | Easy | [C++](./BinaryTree/leetcode_prob_110.cpp) |
+| 111 | Minimum Depth of Binary Tree | Easy | [C++](./BinaryTree/leetcode_prob_111.cpp) |
+| 112 | Path Sum | Easy | [C++](./BinaryTree/leetcode_prob_112.cpp) |
+| 113 | Path Sum II | Medium | [C++](./BinaryTree/leetcode_prob_113.cpp) |
 
 ### Linked List
 | Problem # | Title | Difficulty | Solution |
