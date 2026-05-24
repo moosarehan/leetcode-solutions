@@ -19,6 +19,9 @@
 | 111 | Minimum Depth of Binary Tree | Easy | [C++](./BinaryTree/leetcode_prob_111.cpp) |
 | 112 | Path Sum | Easy | [C++](./BinaryTree/leetcode_prob_112.cpp) |
 | 113 | Path Sum II | Medium | [C++](./BinaryTree/leetcode_prob_113.cpp) |
+| 114 | Flatten Binary Tree to Linked List | Medium | [C++](./BinaryTree/leetcode_prob_114.cpp) |
+| 116 | Populating Next Right Pointers in Each Node | Medium | [C++](./BinaryTree/leetcode_prob_116.cpp) |
+| 117 | Populating Next Right Pointers in Each Node II | Medium | [C++](./BinaryTree/leetcode_prob_117.cpp) |
 
 ### Linked List
 | Problem # | Title | Difficulty | Solution |
