@@ -22,6 +22,8 @@
 | 114 | Flatten Binary Tree to Linked List | Medium | [C++](./BinaryTree/leetcode_prob_114.cpp) |
 | 116 | Populating Next Right Pointers in Each Node | Medium | [C++](./BinaryTree/leetcode_prob_116.cpp) |
 | 117 | Populating Next Right Pointers in Each Node II | Medium | [C++](./BinaryTree/leetcode_prob_117.cpp) |
+| 144 | Binary Tree Preorder Traversal | Easy | [C++](./BinaryTree/leetcode_prob_144.cpp) |
+| 145 | Binary Tree Postorder Traversal | Easy | [C++](./BinaryTree/leetcode_prob_145.cpp) |
 
 ### Linked List
 | Problem # | Title | Difficulty | Solution |
