@@ -2,34 +2,13 @@
 
 <div align="center">
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/moosarehan/)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/muhmmad_musa/)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 *Solving one LeetCode problem every day. A personal repository to track progress, improve algorithmic thinking, and build consistency.*
 
 </div>
-
----
-
-## 📊 Progress Statistics
-
-Here is a summary of the problems solved so far, categorized by difficulty:
-
-| Difficulty | Solved | Progress |
-| :--- | :---: | :--- |
-| 🟢 **Easy** | **22** | `██████████████████░░░░` |
-| 🟡 **Medium** | **29** | `████████████████████████` |
-| 🔴 **Hard** | **1** | `█░░░░░░░░░░░░░░░░░░░░░░` |
-| 🏆 **Total** | **52** | / 3000+ |
-
----
-
-## 📂 Repository Structure
-
-- 🌲 **`BinaryTree/`**: Solutions related to binary trees, traversals, and properties.
-- 🔗 **`linkedlist/`**: Singly and doubly linked lists, operations, and cycles.
-- 👥 **`queue/`**: Queues, deques, and stack implementations.
 
 ---
 
