@@ -14,6 +14,13 @@
 
 ## 🔍 Table of Contents
 
+- [🌲 Binary Tree](#binary-tree)
+- [🔗 Linked List](#linked-list)
+- [👥 Queue](#queue)
+
+---
+
+<a name="binary-tree"></a>
 ### 🌲 Binary Tree
 | Problem # | Title | Difficulty | Solution |
 | :---: | :--- | :---: | :---: |
@@ -35,6 +42,9 @@
 | 144 | Binary Tree Preorder Traversal | 🟢 Easy | [💻 C++](./BinaryTree/leetcode_prob_144.cpp) |
 | 145 | Binary Tree Postorder Traversal | 🟢 Easy | [💻 C++](./BinaryTree/leetcode_prob_145.cpp) |
 
+---
+
+<a name="linked-list"></a>
 ### 🔗 Linked List
 | Problem # | Title | Difficulty | Solution |
 | :---: | :--- | :---: | :---: |
@@ -67,6 +77,9 @@
 | 2095 | Delete the Middle Node of a Linked List | 🟡 Medium | [💻 C++](./linkedlist/leetcode_prob_2095.cpp) |
 | 3217 | Delete Nodes From Linked List Present in Array | 🟡 Medium | [💻 C++](./linkedlist/leetcode_prob_3217.cpp) |
 
+---
+
+<a name="queue"></a>
 ### 👥 Queue
 | Problem # | Title | Difficulty | Solution |
 | :---: | :--- | :---: | :---: |
