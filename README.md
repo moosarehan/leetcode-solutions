@@ -93,17 +93,6 @@
 
 ---
 
-## ⚙️ Compilation & Setup
-
-To compile and run any C++ solution locally, use a compiler like `g++`:
-
-```bash
-# Compile the solution
-g++ -O3 -std=c++17 BinaryTree/leetcode_prob_94.cpp -o solution
-
-# Run the executable
-./solution
-```
 
 ---
 
