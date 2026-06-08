@@ -96,8 +96,3 @@
 
 ---
 
-## ✨ Features
-
-- 🏎️ **Optimal Complexity**: Each solution is optimized for time and space efficiency.
-- 📖 **Clean Code**: Well-structured code with descriptive variable names.
-- 💡 **Self-Contained**: Every C++ file is self-contained with LeetCode's default class structures.
