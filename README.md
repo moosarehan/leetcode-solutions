@@ -41,6 +41,9 @@
 | 117 | Populating Next Right Pointers in Each Node II | 🟡 Medium | [💻 C++](./BinaryTree/leetcode_prob_117.cpp) |
 | 144 | Binary Tree Preorder Traversal | 🟢 Easy | [💻 C++](./BinaryTree/leetcode_prob_144.cpp) |
 | 145 | Binary Tree Postorder Traversal | 🟢 Easy | [💻 C++](./BinaryTree/leetcode_prob_145.cpp) |
+| 199 | Binary Tree Right Side View | 🟡 Medium | [💻 C++](./BinaryTree/leetcode_prob_199.cpp) |
+| 222 | Count Complete Tree Nodes | 🟡 Medium | [💻 C++](./BinaryTree/leetcode_prob_222.cpp) |
+| 226 | Invert Binary Tree | 🟢 Easy | [💻 C++](./BinaryTree/leetcode_prob_226.cpp) |
 
 ---
 
