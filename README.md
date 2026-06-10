@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%92%BB+LeetCode+Solutions;One+Problem+a+Day+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%F0%9F%92%BB+LeetCode+Solutions" alt="Typing SVG" />
 
 <br/>
 
@@ -59,9 +59,9 @@
 
 | | Category | Problems | Jump To |
 |:---:|:---|:---:|:---:|
-| 🌲 | **Binary Tree** | 20 | [**Go →**](#-binary-tree) |
-| 🔗 | **Linked List** | 28 | [**Go →**](#-linked-list) |
-| 📦 | **Queue** | 7 | [**Go →**](#-queue) |
+| 🌲 | **Binary Tree** | 20 | [**Go →**](#binary-tree) |
+| 🔗 | **Linked List** | 28 | [**Go →**](#linked-list) |
+| 📦 | **Queue** | 7 | [**Go →**](#queue) |
 
 </div>
 
