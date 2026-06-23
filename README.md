@@ -8,7 +8,7 @@
 <!-- Badges Row -->
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-muhmmad__musa-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/muhmmad_musa/)
 [![Language](https://img.shields.io/badge/C%2B%2B-Solutions-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
-[![Problems Solved](https://img.shields.io/badge/Solved-58-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)](#-solutions)
+[![Problems Solved](https://img.shields.io/badge/Solved-61-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)](#-solutions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <br/>
@@ -41,10 +41,10 @@
 <td align="center"><b>🏆 Total</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/24-4CAF50?style=flat-square&logo=ticktick&logoColor=white" alt="Easy"/></td>
-<td align="center"><img src="https://img.shields.io/badge/33-FF9800?style=flat-square&logo=ticktick&logoColor=white" alt="Medium"/></td>
+<td align="center"><img src="https://img.shields.io/badge/25-4CAF50?style=flat-square&logo=ticktick&logoColor=white" alt="Easy"/></td>
+<td align="center"><img src="https://img.shields.io/badge/35-FF9800?style=flat-square&logo=ticktick&logoColor=white" alt="Medium"/></td>
 <td align="center"><img src="https://img.shields.io/badge/1-F44336?style=flat-square&logo=ticktick&logoColor=white" alt="Hard"/></td>
-<td align="center"><img src="https://img.shields.io/badge/58-7C4DFF?style=flat-square&logo=ticktick&logoColor=white" alt="Total"/></td>
+<td align="center"><img src="https://img.shields.io/badge/61-7C4DFF?style=flat-square&logo=ticktick&logoColor=white" alt="Total"/></td>
 </tr>
 </table>
 
@@ -59,7 +59,7 @@
 
 | | Category | Problems | Jump To |
 |:---:|:---|:---:|:---:|
-| 🌲 | **Binary Tree** | 23 | [**Go →**](#binary-tree) |
+| 🌲 | **Binary Tree** | 26 | [**Go →**](#binary-tree) |
 | 🔗 | **Linked List** | 28 | [**Go →**](#linked-list) |
 | 📦 | **Queue** | 7 | [**Go →**](#queue) |
 
@@ -76,7 +76,7 @@
 
 <a name="binary-tree"></a>
 
-### <img src="https://img.shields.io/badge/🌲_Binary_Tree-23_problems-2E7D32?style=for-the-badge" alt="Binary Tree"/>
+### <img src="https://img.shields.io/badge/🌲_Binary_Tree-26_problems-2E7D32?style=for-the-badge" alt="Binary Tree"/>
 
 <details open>
 <summary><b>Click to expand / collapse</b></summary>
@@ -107,6 +107,9 @@
 | 230 | Kth Smallest Element in a BST | ![Medium](https://img.shields.io/badge/Medium-FF9800?style=flat-square) | [📄 C++](./BinaryTree/leetcode_prob_230.cpp) |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | ![Medium](https://img.shields.io/badge/Medium-FF9800?style=flat-square) | [📄 C++](./BinaryTree/leetcode_prob_235.cpp) |
 | 257 | Binary Tree Paths | ![Easy](https://img.shields.io/badge/Easy-4CAF50?style=flat-square) | [📄 C++](./BinaryTree/leetcode_prob_257.cpp) |
+| 404 | Sum of Left Leaves | ![Easy](https://img.shields.io/badge/Easy-4CAF50?style=flat-square) | [📄 C++](./BinaryTree/leetcode_prob_404.cpp) |
+| 437 | Path Sum III | ![Medium](https://img.shields.io/badge/Medium-FF9800?style=flat-square) | [📄 C++](./BinaryTree/leetcode_prob_437.cpp) |
+| 450 | Delete Node in a BST | ![Medium](https://img.shields.io/badge/Medium-FF9800?style=flat-square) | [📄 C++](./BinaryTree/leetcode_prob_450.cpp) |
 
 </details>
 
